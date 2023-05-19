@@ -1,4 +1,4 @@
- İsmail Yıldız
+ İsmail Yıldız 
 
 **`Digital Craftsman (Developer/Researcher/Philosopher)`**
 
