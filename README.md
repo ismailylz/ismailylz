@@ -25,7 +25,7 @@ Im a programming student who wants be a full-stack developer and content creator
 
 
 
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+ <summary><h3> My Coding Journey</h3></summary>
    I started my coding journey as a computer programming student with a passion to learn everything I could about this programming world. And all the while, teaching myself web development with a dream to build my own websites. I want to build websites that will bring together people with similar interests in the future. Just like facebook and twitter. Until then, I dedicated myself to learning.
 
 [website]: https://ismailyildizz.com
