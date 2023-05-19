@@ -1,4 +1,3 @@
-# ![image](https://github.com/ismailylz/ismailylz/assets/121267215/47ddc857-c276-4fff-b0d6-9251ce70a6c5)
  İsmail Yıldız
 
 **`Digital Craftsman (Developer/Researcher/Philosopher)`**
