@@ -3,8 +3,7 @@
 
 **`Digital Craftsman (Developer/Researcher/Philosopher)`**
 
-I'm an programmer student who wants be a full-stack developer and content creator for digital comminites.
-
+Im a programmming student who wants be a full-stack developer and content creator for digital comminites.
 ---
 
 ### 🧰 Languages and Tools
